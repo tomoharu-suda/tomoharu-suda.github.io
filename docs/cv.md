@@ -1,1 +1,4 @@
-# CV
+---
+layout: page
+title: CV
+---
