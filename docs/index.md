@@ -1,6 +1,6 @@
 # About 
 
-** Research interest **
+**Research interest**
 
 [About]( cv.html )
 
