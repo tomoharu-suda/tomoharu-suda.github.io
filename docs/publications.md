@@ -12,7 +12,7 @@ title: Publications
 
 3. **Tomoharu Suda**, Equivalence of topological dynamics without well-posedness, *Topology and its Applications* 108045-108045 (2022).
 
-4. **Tomoharu Suda**, A categorical view of Poincaré maps and suspension flows, *Dynamical Systems* 1 (2022).
+4. **Tomoharu Suda**, A categorical view of Poincaré maps and suspension flows, *Dynamical Systems* 37 (2022), 159-179.
 
 5. Saori Suda, **Tomoharu Suda**, Takuya Ohmura, and Masatoshi Ichikawa, Straight-to-Curvilinear Motion Transition of a Swimming Droplet Caused by the Susceptibility to Fluctuations, *Physical Review Letters* 127(8) (2021).
 
