@@ -1,9 +1,7 @@
 ---
 layout: page
-title: CV
+title: 略歴 / CV
 ---
-
-# 略歴
 
 ## プロフィール
 
