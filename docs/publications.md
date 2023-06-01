@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: 研究業績 / Publications
 ---
 
 
