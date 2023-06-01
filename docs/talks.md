@@ -1,1 +1,4 @@
-# Talks
+---
+layout: page
+title: Talks
+---
