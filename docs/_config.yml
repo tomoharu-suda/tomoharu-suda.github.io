@@ -2,6 +2,4 @@ title: Tomoharu Suda
 theme: minima
 domain: tomoharu-suda.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https:/tomoharu-suda.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-author:
-  name: Tomoharu Suda
-  email: "tomoharu.suda[at]riken.jp"
+author: "tomoharu.suda[at]riken.jp"
