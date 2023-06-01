@@ -1,5 +1,3 @@
-# Publication List
-
 ## 査読付き論文 Referred Papers
 
 1. **Tomoharu Suda**, On partial maps derived from flows, *Discrete and Continuous Dynamical Systems Series-B* 28 (2023), 5881-5904.
