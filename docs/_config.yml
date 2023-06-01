@@ -1,6 +1,6 @@
 theme: minima
 title: Tomoharu Suda
 header_pages:
-  - cv.md
-  - publication.md
-  - teaching.md
+  - cv.html
+  - publication.html
+  - teaching.html
