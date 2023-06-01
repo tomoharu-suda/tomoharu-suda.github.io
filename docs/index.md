@@ -1,11 +1,7 @@
+**Tomoharu Suda**
+
 
 **Research interest**
+Dynamical Systems, Applied Mathematics
 
 
-[About]( cv.html )
-
-
-[Publication]( publication.html )
-
-
-[Teaching]( teaching.html )
