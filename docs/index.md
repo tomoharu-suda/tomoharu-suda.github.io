@@ -9,3 +9,6 @@ Postdoctoral Researcher at RIKEN CSRS
 Dynamical Systems, Applied Mathematics
 
 現象の力学系理論を用いた解析や，そのための理論の構築に関して研究を行っています．
+
+
+[Researchmap](https://researchmap.jp/t-suda) [ORCID](https://orcid.org/0000-0002-1027-7842)
