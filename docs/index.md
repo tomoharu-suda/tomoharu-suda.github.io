@@ -1,6 +1,6 @@
 **Tomoharu Suda**
 
-Postdoctoral Researcher
+Postdoctoral Researcher at RIKEN CSRS
 
 **Research interest:**
 
