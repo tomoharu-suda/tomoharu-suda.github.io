@@ -30,7 +30,7 @@
 
 ## 査読なし論文 Other Papers
 
-1. 渡邉浩一, 臼田泰如, 寺山慧, 瑞慶覧長空, **須田智晴**, 佐野泰之, 学際教育を求めて――Interdisciplinarityの歴史と理論, *学際系学部の教養教育 報告書* 105-122 (2017).
+1. 渡邉浩一, 臼田泰如, 寺山慧, 瑞慶覧長空, **須田智晴**, 佐野泰之, 学際教育を求めて―Interdisciplinarityの歴史と理論, *学際系学部の教養教育 報告書* 105-122 (2017).
 
 ## プレプリント Preprints
 1. **Tomoharu Suda**, Dynamical properties in the axiomatic theory of ordinary differential equations, arXiv:2303.01199, 2023.
