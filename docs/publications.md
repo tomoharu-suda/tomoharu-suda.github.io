@@ -41,7 +41,7 @@ title: 研究業績 / Publications
 
 2. **Tomoharu Suda**, A characterization of the Filippov convention, arXiv:1901.06333, 2019.
 
-## 書籍 Book
+## 書籍 Books
 
 1. 萩原 広道, 佐野 泰之, 杉谷 和哉, **須田 智晴**, 谷川 嘉浩, 真鍋 公希, 三升 寛人 編著『〈京大発〉専門分野の越え方: 対話から生まれる学際の探求 』,ナカニシヤ出版, 2023年．
 
