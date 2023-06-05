@@ -1,5 +1,7 @@
 title: Tomoharu Suda
-theme: minima
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
 domain: tomoharu-suda.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https:/tomoharu-suda.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 author: "tomoharu.suda[at]riken.jp"
