@@ -43,9 +43,35 @@ title: 教育 / Teaching
 [級数の応用](./pdfs/application_ps.pdf)
 
 
-
 ## 演習問題
 
 ### 微分積分学Ⅳ（2021年度後期）
 
+[演習第1回](./pdfs/ex_1.pdf)
+[演習第2回](./pdfs/ex_2.pdf)
+[演習第3回](./pdfs/ex_3.pdf)
+[演習第4回](./pdfs/ex_4.pdf)
+[演習第5回](./pdfs/ex_5.pdf)
+[演習第6回](./pdfs/ex_6.pdf)
+[演習第7回](./pdfs/ex_7.pdf)
+[演習第8回](./pdfs/ex_8.pdf)
+[演習第9回](./pdfs/ex_9.pdf)
+[演習第10回](./pdfs/ex_10.pdf)
+[演習第11回](./pdfs/ex_11.pdf)
+[演習第12回](./pdfs/ex_12.pdf)
+[演習第13回](./pdfs/ex_13.pdf)
+
 ### 実解析第２同演習（2022年度後期）
+
+[演習第1回](./pdfs/e_1.pdf)
+[演習第2回](./pdfs/e_2.pdf)
+[演習第3回](./pdfs/e_3.pdf)
+[演習第4回](./pdfs/e_4.pdf)
+[演習第5回](./pdfs/e_5.pdf)
+[演習第6回](./pdfs/e_6.pdf)
+[演習第7回](./pdfs/e_7.pdf)
+[演習第8回](./pdfs/e_8.pdf)
+[演習第9回](./pdfs/e_9.pdf)
+[演習第10回](./pdfs/e_10.pdf)
+[演習第11回](./pdfs/e_11.pdf)
+[演習第12回](./pdfs/e_12.pdf)
