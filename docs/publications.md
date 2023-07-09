@@ -6,21 +6,21 @@ title: 研究業績 / Publications
 
 ## 査読付き論文 Referred Papers
 
-1. **Tomoharu Suda**, On partial maps derived from flows, *Discrete and Continuous Dynamical Systems Series-B* 28 (2023), 5881-5904.
+1. **Tomoharu Suda**, On partial maps derived from flows, *Discrete and Continuous Dynamical Systems Series-B* 28(11), 5881-5904 (2023).
 
-2. Saori Suda, **Tomoharu Suda**, Takuya Ohmura and Masatoshi Ichikawa, Motion of a swimming droplet under external perturbations: A model-based approach, *Physical Review E* 106 (2022).
+2. Saori Suda, **Tomoharu Suda**, Takuya Ohmura and Masatoshi Ichikawa, Motion of a swimming droplet under external perturbations: A model-based approach, *Physical Review E* 106, 034610 (2022).
 
-3. **Tomoharu Suda**, Equivalence of topological dynamics without well-posedness, *Topology and its Applications* 108045-108045 (2022).
+3. **Tomoharu Suda**, Equivalence of topological dynamics without well-posedness, *Topology and its Applications* 312, 108045 (2022).
 
-4. **Tomoharu Suda**, A categorical view of Poincaré maps and suspension flows, *Dynamical Systems* 37 (2022), 159-179.
+4. **Tomoharu Suda**, A categorical view of Poincaré maps and suspension flows, *Dynamical Systems* 37(1), 159-179 (2022).
 
-5. Saori Suda, **Tomoharu Suda**, Takuya Ohmura, and Masatoshi Ichikawa, Straight-to-Curvilinear Motion Transition of a Swimming Droplet Caused by the Susceptibility to Fluctuations, *Physical Review Letters* 127(8) (2021).
+5. Saori Suda, **Tomoharu Suda**, Takuya Ohmura, and Masatoshi Ichikawa, Straight-to-Curvilinear Motion Transition of a Swimming Droplet Caused by the Susceptibility to Fluctuations, *Physical Review Letters* 127(8), 088005 (2021).
 
-6. **Tomoharu Suda**, Application of Helmholtz–Hodge decomposition to the study of certain vector fields, *Journal of Physics A: Mathematical and Theoretical* 53(37), 375703-375703 (2020).
+6. **Tomoharu Suda**, Application of Helmholtz–Hodge decomposition to the study of certain vector fields, *Journal of Physics A: Mathematical and Theoretical* 53(37), 375703 (2020).
 
 7. **Tomoharu Suda**, Construction of Lyapunov functions using Helmholz-Hodge decomposition, *Discrete and Continuous Dynamical Systems* 39(5), 2437-2454 (2019).
 
-8. **Tomoharu Suda** and Takao Morinari, Destruction of Magnetic Long-Range Order by Hole-Induced Skyrmions in Two-Dimensional Heisenberg Model, *Journal of the Physical Society of Japan* 85(11) (2016).
+8. **Tomoharu Suda** and Takao Morinari, Destruction of Magnetic Long-Range Order by Hole-Induced Skyrmions in Two-Dimensional Heisenberg Model, *Journal of the Physical Society of Japan* 85(11), 114702 (2016).
 
 ## プロシーディング Proceedings
 
