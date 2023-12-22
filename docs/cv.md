@@ -3,6 +3,8 @@ layout: page
 title: 略歴 / CV
 ---
 
+[View CV in PDF](./pdfs/cv.pdf)
+
 ## プロフィール
 
 - **現在の所属**: 特定国立研究開発法人理化学研究所 環境資源科学研究センター 特別研究員
