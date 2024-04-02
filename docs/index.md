@@ -1,8 +1,8 @@
 **須田 智晴**
 
-特定国立研究開発法人理化学研究所 環境資源科学研究センター 特別研究員
+東京理科大学　理学部第一部　応用数学科　嘱託助教
 
-Postdoctoral Researcher at RIKEN CSRS
+Assistant Professor, Department of Applied Mathematics, Tokyo University of Science
 
 **Research interest:**
 
