@@ -6,25 +6,24 @@ title: 研究業績 / Publications
 
 ## 査読付き論文 Referred Papers
 
-1. Hideshi Ooka, Marie E Wintzer, Hirokazu Komatsu, **Tomoharu Suda**, Kiyohiro Adachi, Ailong Li, Shuang Kong, Daisuke Hashizume, Atsushi Mochizuki, and Ryuhei Nakamura, Microkinetic Model to Rationalize the Lifetime of Electrocatalysis: Trade-off between Activity and Stability, *The Journal of Physical Chemistry Letters* 15, 10079–10085 (2024). 
+1. Hideshi Ooka, **Tomoharu Suda**, Koichi Yatsuzuka, Ryuhei Nakamura,Thermoneutrality Is Not Necessary to Maximize Oxygen Evolution Reaction Rates, *ChemSusChem*, e2402625 (2025).
+2. Hideshi Ooka, Marie E Wintzer, Hirokazu Komatsu, **Tomoharu Suda**, Kiyohiro Adachi, Ailong Li, Shuang Kong, Daisuke Hashizume, Atsushi Mochizuki, and Ryuhei Nakamura, Microkinetic Model to Rationalize the Lifetime of Electrocatalysis: Trade-off between Activity and Stability, *The Journal of Physical Chemistry Letters* 15, 10079–10085 (2024).
+3.  **Tomoharu Suda**, Dynamical properties in the axiomatic theory of ordinary differential equations, *Journal of Differential Equations* 391, 1-24 (2024).
+4.  **Tomoharu Suda**, On partial maps derived from flows, *Discrete and Continuous Dynamical Systems Series-B* 28(11), 5881-5904 (2023).
 
-2. **Tomoharu Suda**, Dynamical properties in the axiomatic theory of ordinary differential equations, *Journal of Differential Equations* 391, 1-24 (2024).
+5. Saori Suda, **Tomoharu Suda**, Takuya Ohmura and Masatoshi Ichikawa, Motion of a swimming droplet under external perturbations: A model-based approach, *Physical Review E* 106, 034610 (2022).
 
-3. **Tomoharu Suda**, On partial maps derived from flows, *Discrete and Continuous Dynamical Systems Series-B* 28(11), 5881-5904 (2023).
+6. **Tomoharu Suda**, Equivalence of topological dynamics without well-posedness, *Topology and its Applications* 312, 108045 (2022).
 
-4. Saori Suda, **Tomoharu Suda**, Takuya Ohmura and Masatoshi Ichikawa, Motion of a swimming droplet under external perturbations: A model-based approach, *Physical Review E* 106, 034610 (2022).
+7. **Tomoharu Suda**, A categorical view of Poincaré maps and suspension flows, *Dynamical Systems* 37(1), 159-179 (2022).
 
-5. **Tomoharu Suda**, Equivalence of topological dynamics without well-posedness, *Topology and its Applications* 312, 108045 (2022).
+8. Saori Suda, **Tomoharu Suda**, Takuya Ohmura, and Masatoshi Ichikawa, Straight-to-Curvilinear Motion Transition of a Swimming Droplet Caused by the Susceptibility to Fluctuations, *Physical Review Letters* 127(8), 088005 (2021).
 
-6. **Tomoharu Suda**, A categorical view of Poincaré maps and suspension flows, *Dynamical Systems* 37(1), 159-179 (2022).
+9. **Tomoharu Suda**, Application of Helmholtz–Hodge decomposition to the study of certain vector fields, *Journal of Physics A: Mathematical and Theoretical* 53(37), 375703 (2020).
 
-7. Saori Suda, **Tomoharu Suda**, Takuya Ohmura, and Masatoshi Ichikawa, Straight-to-Curvilinear Motion Transition of a Swimming Droplet Caused by the Susceptibility to Fluctuations, *Physical Review Letters* 127(8), 088005 (2021).
+10. **Tomoharu Suda**, Construction of Lyapunov functions using Helmholz-Hodge decomposition, *Discrete and Continuous Dynamical Systems* 39(5), 2437-2454 (2019).
 
-8. **Tomoharu Suda**, Application of Helmholtz–Hodge decomposition to the study of certain vector fields, *Journal of Physics A: Mathematical and Theoretical* 53(37), 375703 (2020).
-
-9. **Tomoharu Suda**, Construction of Lyapunov functions using Helmholz-Hodge decomposition, *Discrete and Continuous Dynamical Systems* 39(5), 2437-2454 (2019).
-
-10. **Tomoharu Suda** and Takao Morinari, Destruction of Magnetic Long-Range Order by Hole-Induced Skyrmions in Two-Dimensional Heisenberg Model, *Journal of the Physical Society of Japan* 85(11), 114702 (2016).
+11. **Tomoharu Suda** and Takao Morinari, Destruction of Magnetic Long-Range Order by Hole-Induced Skyrmions in Two-Dimensional Heisenberg Model, *Journal of the Physical Society of Japan* 85(11), 114702 (2016).
 
 ## プロシーディング Proceedings
 
