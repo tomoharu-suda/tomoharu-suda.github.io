@@ -40,9 +40,10 @@ title: 研究業績 / Publications
 1. 渡邉浩一, 臼田泰如, 寺山慧, 瑞慶覧長空, **須田智晴**, 佐野泰之, 学際教育を求めて―Interdisciplinarityの歴史と理論, *学際系学部の教養教育 報告書* 105-122 (2017).
 
 ## プレプリント Preprints
-1. **Tomoharu Suda**, Effective Kinetics of Chemical Reaction Networks, arXiv:2402.11762, 2024.
+1. Suddhasattwa Das and **Tomoharu Suda**, Dynamics, data and reconstruction, arXiv:2412.19734, 2024.
+2. **Tomoharu Suda**, Effective Kinetics of Chemical Reaction Networks, arXiv:2402.11762, 2024.
 
-2. **Tomoharu Suda**, A characterization of the Filippov convention, arXiv:1901.06333, 2019.
+3. **Tomoharu Suda**, A characterization of the Filippov convention, arXiv:1901.06333, 2019.
 
 ## 書籍 Books
 
